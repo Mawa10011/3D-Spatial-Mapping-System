@@ -6,11 +6,13 @@ Embedded system using a Time-of-Flight (ToF) sensor, stepper motor, and MATLAB v
 
 ## Example: Box Scan
 The image below shows the physical object that was scanned, followed by the reconstructed 3D model generated from the collected ToF sensor data.
+
 ![Box Environment](images/rectangular_scan.png)
 ![Box Reconstruction](images/rectangular_scan.gif)
 
 ## Example: Cylindrical Object Scan
 The image below shows the physical object that was scanned, followed by the reconstructed 3D model generated from the collected ToF sensor data.
+
 ![Cylinder Environment](images/cylindrical_scan.png)
 ![Cylinder Reconstruction](images/cylindrical_scan.gif)
 
